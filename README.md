@@ -1,5 +1,4 @@
 # Leon---HTML-CSS-Template
-Leon ---- HTML &amp; CSS Design
 ### This Design Is A Workshop From Zero Web School Channel
 [Youtube](https://www.youtube.com/@ElzeroAcademy) - Elzero Web School Channel
 ### PSD Template Design Taken From Graphberry website
